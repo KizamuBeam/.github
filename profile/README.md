@@ -43,13 +43,11 @@ Everything we make is free software, works across macOS, Windows and Linux, and 
 
 ## Our projects
 
-| Project | What it is | Status |
-| :-- | :-- | :-- |
-| [**KizamuBeam**](https://github.com/KizamuBeam/kizamubeam) | The desktop app for designing, engraving and cutting. Draw, import artwork, generate parts, preview in 3D and control compatible lasers. | Available now |
-| **Extensions & plug-ins** | A growing home for add-ons, generators, materials, device presets, templates and community-built tools. | In development |
-| **KizamuBeam Virtual Machine** | A standalone virtual laser controller for developing, testing and exploring controller behaviour without a physical machine. | In development |
-
-The Virtual Machine currently lives in the [KizamuBeam repository](https://github.com/KizamuBeam/kizamubeam/tree/main/vm); future projects will appear here as they are ready to use.
+| Project | What it is |
+| :-- | :-- |
+| [**KizamuBeam**](https://github.com/KizamuBeam/kizamubeam) | The desktop app for designing, engraving and cutting. Draw, import artwork, generate parts, preview in 3D and control compatible lasers. |
+| [**Extensions & plug-ins**](https://github.com/KizamuBeam/kizamubeam-plugins) | A growing home for add-ons, generators, materials, device presets, templates and community-built tools. |
+| [**KizamuBeam Virtual Machine**](https://github.com/KizamuBeam/kizamubeam-vm) | A standalone virtual laser controller for developing, testing and exploring controller behaviour without a physical machine. |
 
 ## Built for making
 
